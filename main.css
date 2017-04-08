@@ -77,15 +77,32 @@ table {
 }
 
 .main-header {
-	background: #800000;
+	background: url("header.jpg");
 }
 
-ul {
-	display: inline-block;
+nav.main a {
+	font-family: 'PT Sans Narrow', sans-serif;
+	font-size: 33px;
+	color: white;
 }
+
+nav.main a:hover {
+	color: black;
+	border: 1px solid white;
+	background: white;
+}
+
+nav.main li {
+  display: inline-block;
+  margin-right: 20px;
+  padding-bottom: 0px;
+	padding-top: 25px;
+}
+
 
 h1 {
-	font-family: 'Permanent Marker', cursive;
+	padding-top: 50px;
+	font-family: 'Indie Flower', cursive;
 	font-size: 66px;
 	color: white;
 }
@@ -98,4 +115,9 @@ h2 {
 p {
 	font-family: 'PT Sans Narrow', sans-serif;
 	font-size: 22px;
+}
+
+#bio-paragraph {
+	padding-top: 20px;
+	color: white;
 }
