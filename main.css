@@ -55,8 +55,6 @@ table {
 	width: 100%;
 }
 
-/*----- Styling -----*/
-
 .main-header,
 .about,
 .albums,
@@ -72,9 +70,7 @@ table {
 	padding-top: 50px;
 }
 
-.footer {
-	text-align: center;
-}
+/*----- Header -----*/
 
 .main-header {
 	background: url("header.jpg");
@@ -99,6 +95,20 @@ nav.main li {
 	padding-top: 25px;
 }
 
+.about {
+	background: #455A64;
+	color: #FFFFFF;
+}
+
+.albums {
+	background: #CFD8DC;
+}
+
+.footer {
+	text-align: center;
+}
+
+/*----- Typography -----*/
 
 h1 {
 	padding-top: 50px;
