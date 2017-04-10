@@ -137,5 +137,7 @@ p {
 }
 
 .about-paragraph {
-	
+	text-align: left;
+	padding-top: 50px;
+	padding-left: 30px;
 }
