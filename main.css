@@ -122,13 +122,13 @@ h1 {
 }
 
 h2 {
-	font-family: 'PT Sans Narrow', sans-serif;
+	font-family: 'Indie Flower', cursive;
 	font-size: 44px;
 }
 
 p {
 	font-family: 'PT Sans Narrow', sans-serif;
-	font-size: 22px;
+	font-size: 28px;
 }
 
 .bio-paragraph {
@@ -140,4 +140,10 @@ p {
 	text-align: left;
 	padding-top: 50px;
 	padding-left: 30px;
+	font-size:
+}
+
+small {
+	text-align: left;
+	padding-top: 50px;
 }
