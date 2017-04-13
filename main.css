@@ -99,6 +99,12 @@ nav.main li {
 	padding-top: 25px;
 }
 
+.albums li {
+	display: inline-block;
+	padding-top: 80px;
+	padding-right: 10px;
+}
+
 .about {
 	background: #455A64;
 	color: #FFFFFF;
@@ -125,6 +131,12 @@ h1 {
 h2 {
 	font-family: 'Yellowtail', cursive;
 	font-size: 44px;
+}
+
+h4 {
+	font-family: 'Yellowtail', cursive;
+	font-size: 33px;
+	padding-top: 30px;
 }
 
 p {
