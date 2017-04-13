@@ -131,16 +131,9 @@ p {
 	font-size: 28px;
 }
 
-.bio-paragraph {
-	padding-top: 20px;
-	color: white;
-}
-
-.about-paragraph {
-	text-align: left;
-	padding-top: 50px;
-	padding-left: 30px;
-	font-size:
+iframe {
+	padding-top: 100px;
+	padding-right: 20px;
 }
 
 small {
