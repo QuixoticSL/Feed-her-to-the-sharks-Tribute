@@ -64,7 +64,7 @@ table {
 }
 
 .social {
-	height: 50vh;
+	height: 30vh;
 	text-align: center;
 }
 
@@ -114,8 +114,14 @@ nav.main li {
 	background: #CFD8DC;
 }
 
+.social li a {
+	color: black;
+}
+
 .social li {
 	display: inline-block;
+	padding-top: 20px;
+	padding-right: 30px;
 }
 
 .footer {
