@@ -64,7 +64,7 @@ table {
 }
 
 .social {
-	height: 30vh;
+	height: 25vh;
 	text-align: center;
 }
 
@@ -106,12 +106,16 @@ nav.main li {
 }
 
 .about {
-	background: #455A64;
+	background: linear-gradient(black, gray);
 	color: #FFFFFF;
 }
 
 .albums {
-	background: #CFD8DC;
+	background: linear-gradient(white, gray);
+}
+
+.social {
+	background: linear-gradient(to right, black, gray);
 }
 
 .social li a {
@@ -126,7 +130,6 @@ nav.main li {
 
 .footer {
 	text-align: center;
-	background: #BDBDBD;
 }
 
 /*----- Typography -----*/
