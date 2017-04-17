@@ -49,6 +49,8 @@ table {
 
 /* Actual CSS by author */
 
+/* The responsive code has not yet been written. */
+
 /*----- Section setup -----*/
 
 .main-header {
@@ -171,12 +173,4 @@ iframe {
 small {
 	text-align: left;
 	padding-top: 50px;
-}
-
-/* --- Media Queries (I suck at these) --- */
-
-@media screen
-  and (min-device-width: 1200px)
-  and (max-device-width: 1600px)
-  and (-webkit-min-device-pixel-ratio: 1) {
 }
